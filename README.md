@@ -40,7 +40,7 @@ TIM 4 berperan sebagai **tim pembantu internal** dalam proses pengembangan Bee-R
 - [Dokumentasi Lengkap(Mengikuti Format BIT)](https://docs.google.com/spreadsheets/d/1dn74SmEdgsMnoei2i9F67byxlLsCY4zfdaoVg7tLVwA/edit?usp=sharing)
 
 
-## Dokumentasi
+## Catatan
 - Dikarenakan penemuan bug secara keseluruhan lebih ke fungsional, dan kurangnya perbaikan untuk UI mauapun UX,jadi untuk UI/UX atau Ira Hardina ditarik ke tim internal BIT untuk mengerjakan "Evaluasi Kontrak Karyawan BIT".
 
 
