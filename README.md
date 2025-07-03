@@ -39,7 +39,7 @@ Tugas utama kami meliputi:
 
 ## Dokumentasi
 
-📄 [Dokumentasi Lengkap (Mengikuti Format BIT)](https://drive.google.com/your-link-dokumentasi)
+📄 [Dokumentasi Lengkap (Mengikuti Format BIT)](https://docs.google.com/spreadsheets/d/1dn74SmEdgsMnoei2i9F67byxlLsCY4zfdaoVg7tLVwA/edit?usp=sharing)
 
 > Dokumentasi mencakup:  
 > - Daftar Bug  
@@ -48,7 +48,7 @@ Tugas utama kami meliputi:
 > - Timeline Proyek dan Tim  
 > - Evaluasi Hasil Testing
 
-## Catatan Tambahan
+## Catatan
 - Karena sebagian besar temuan bug bersifat fungsional dan tidak banyak perbaikan terkait UI/UX, maka Ira Hardina (UI/UX) ditarik oleh tim internal BIT untuk mengerjakan **Evaluasi Kontrak Karyawan BIT**.  
 - Karena TIM tidak memiliki QA spesialis, maka tanggung jawab pengujian (*quality assurance*) dilimpahkan kepada PM dan UI/UX.
 
