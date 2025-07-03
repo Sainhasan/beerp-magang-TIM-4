@@ -15,9 +15,9 @@ dengan tanggal 19 Juni 2025.
 - Meningkatkan Penjualan  
 - Customer Management – Menyimpan dan mengatur data pelanggan secara terpusat
 
-## Peran TIM 4
+## Peran Kami di proyek ini
 
-TIM 4 berperan sebagai **tim pembantu internal** dalam proses pengembangan Bee-RP. Tugas utama kami adalah melakukan eksplorasi terhadap fitur-fitur aplikasi, mengidentifikasi bug, serta membantu pengembang utama dalam perbaikan bug yang ditemukan.
+Dikarenakn proyek ini bukan proyek yang dibuat kami dari awal karena proyek ini ketika kami bergagabung proyeknya sudah berjalan dan untuk UI dan fungsionalnya telah dibuat oleh tim internal BIT maka kami berperan sebagai **Bug Hunter dan Bug Fixing** dalam proses pengembangan Bee-RP. Tugas utama kami adalah melakukan eksplorasi terhadap fitur-fitur aplikasi, mengidentifikasi bug, serta membantu pengembang utama dalam perbaikan bug yang ditemukan oleh tim.
 
 ### Tanggung Jawab Tim:
 - Menjelajahi aplikasi Bee-RP untuk memahami fitur-fitur yang ada
@@ -28,12 +28,12 @@ TIM 4 berperan sebagai **tim pembantu internal** dalam proses pengembangan Bee-R
 
 ## Struktur Tim
 
-|Nama                | Role               | Tugas                                                                        |
-|--------------------|--------------------|------------------------------------------------------------------------------|
-|Ira Hardina         | UI/UX              | Evaluasi tampilan dan alur aplikas                                           |
-|Rizal Mahardika     | FE                 | Perbaikan bug di sisi frontend                                               |
-|Heru Guntoro        | BE                 | Perbaikan bug di sisi backend                                                |
-|Muhammad Husaini    | PM                 | Koordinasi tugas dan dokumentasi temuan bug serta update perbaikan           |
+|Nama                | Role               | Tugas                                                                                                                                  |
+|--------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+|Ira Hardina         | UI/UX              | Evaluasi tampilan dan alur aplikas, melakukan testing ketika telah di fix oleh tim dev di lokal maupun setelah dinaikan ke staging.    |
+|Rizal Mahardika     | FE                 | Perbaikan bug di sisi frontend dan melakukan push ke branch masing - masing di repo.                                                   |
+|Heru Guntoro        | BE                 | Perbaikan bug di sisi backend  dan melakukan push ke branch masing - masing di repo.                                                   |
+|Muhammad Husaini    | PM                 | Koordinasi tugas,melakukan Testing di lokal dan staging,dan dokumentasi meliputi TimelineProyek,Testcase,ListBug,dan Timeline Tim                                                                                                                                                                                                                           |
 
 ## Dokumentasi
 
@@ -41,6 +41,7 @@ TIM 4 berperan sebagai **tim pembantu internal** dalam proses pengembangan Bee-R
 
 
 ## Catatan
-- Dikarenakan penemuan bug secara keseluruhan lebih ke fungsional, dan kurangnya perbaikan untuk UI mauapun UX,jadi untuk UI/UX atau Ira Hardina ditarik ke tim internal BIT untuk mengerjakan "Evaluasi Kontrak Karyawan BIT".
+- Dikarenakan penemuan bug secara keseluruhan lebih ke fungsional, dan kurangnya perbaikan untuk UI mauapun UX,jadi untuk UI/UX atau Ira Hardina ditarik ke tim internal BIT untuk mengerjakan "Evaluasi Kontrak       Karyawan BIT".
+- Dikarenakn TIM tidak memiliki QA spesialis atau yang benar - benar fokus untuk melakukan QA maka tugasnya dilimpahkan kepada PM dan UI/UX.
 
 
