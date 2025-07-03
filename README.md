@@ -1,7 +1,5 @@
-# Bee-RP - TIM 4
-
-## Judul Proyek
-Pengujian dan Perbaikan Fungsional Aplikasi Bee-RP
+# Judul Proyek
+Bee-Rp
 
 ## Waktu Pelaksanaan
 Proyek ini berlangsung selama 3 bulan, terhitung sejak tanggal **11 Maret 2025** sampai dengan **19 Juni 2025**.
